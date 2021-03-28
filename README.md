@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - https://github.com/twowind
 - do_not_that@qq.com
-- twowind.github.io
+- https://twowind.github.io
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
