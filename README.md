@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I’m a college student.
 
-🌱 I’m currently learning React
+🌱 I’m currently learning React.
 
 📫 How to reach me: 
 
