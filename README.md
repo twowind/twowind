@@ -13,4 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+🔭 I’m a college student.
+
+🌱 I’m currently learning React
+
+📫 How to reach me: 
+
+- https://github.com/twowind
+- do_not_that@qq.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twowind)](https://github.com/anuraghazra/github-readme-stats)
+
+
