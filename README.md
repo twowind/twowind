@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning React.
 
-📫 How to reach me: 
+📫 How to reach me:
 
 - https://github.com/twowind
 - do_not_that@qq.com
 - https://twowind.github.io
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twowind&layout=compact)](https://github.com/twowind/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twowind&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twowind&show_icons=true&theme=buefy)](https://github.com/twowind/github-readme-stats)
